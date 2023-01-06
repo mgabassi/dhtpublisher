@@ -8,7 +8,7 @@
   The above copyright notice and this permission notice shall be included in all
   copies or substantial portions of the Software.
 */
-
+//comment added
 #include "DHT.h"
 #include <ESP8266WiFi.h>
 #include <Ticker.h>
